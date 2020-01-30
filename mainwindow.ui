@@ -938,22 +938,6 @@
     </hint>
    </hints>
   </connection>
-  <connection>
-   <sender>pushButton_6</sender>
-   <signal>clicked()</signal>
-   <receiver>MainWindow</receiver>
-   <slot>runMainAlgo()</slot>
-   <hints>
-    <hint type="sourcelabel">
-     <x>682</x>
-     <y>273</y>
-    </hint>
-    <hint type="destinationlabel">
-     <x>666</x>
-     <y>312</y>
-    </hint>
-   </hints>
-  </connection>
  </connections>
  <designerdata>
   <property name="gridDeltaX">
